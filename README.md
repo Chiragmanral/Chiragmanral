@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chiragmanral
 - 👀 I’m interested in programming and development.
-- 🌱 I’m currently learning java script.
+- 🌱 I’m currently learning data structures and algorithms.
 - 💞️ I’m looking to collaborate on good open source project and start ups project.
 - 📫 How to reach me email at chiragmanral2003@gmail.com
 
