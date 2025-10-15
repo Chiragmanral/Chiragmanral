@@ -57,6 +57,22 @@
 
 ---
 
+## 🗓️ Contributions & Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragmanral&theme=react-dark&hide_border=true&bg_color=0D1117&color=6a11cb&line=2575fc&point=ffffff" width="95%" alt="Chirag's GitHub Activity Graph"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="95%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chiragmanral&theme=tokyonight&utcOffset=5.5" height="190" alt="Productive Time Card"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Achievements & GitHub Trophies
 
 <p align="center">
@@ -82,3 +98,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
+
