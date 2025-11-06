@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>Full Stack Developer • Open Source Enthusiast • Lifelong Learner</em><br/>
-  <a href="https://www.chirags.tech">🌐 Portfolio</a> • 
+  <a href="https://portfolio-ebon-xi-86.vercel.app/">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/chirag-singh-manral-7225b7239/">💼 LinkedIn</a> • 
   <a href="mailto:chiragmanral2003@gmail.com">📩 Email</a>
 </p>
